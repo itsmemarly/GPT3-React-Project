@@ -2,6 +2,8 @@
 
 ![image](https://github.com/itsmemarly/GPT3-React-Project/assets/31918408/d2d00489-6004-47e3-8215-19fca1ead703)
 
+**View the live website: [GPT3-React-Project](https://itsmemarly.github.io/GPT3-React-Project/)**
+
 ## Introduction
 
 Welcome to the Modern UI/UX GPT-3 project! The goal of this project was to learn and explore React by building an amazing website with a modern UI/UX design. This project was designed for beginners to React, and we started with the fundamentals and gradually progressed to more advanced topics. Each step was thoroughly explained, allowing me to gain hands-on experience with React.
